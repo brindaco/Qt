@@ -12,9 +12,6 @@ int main (int argc, char** argv)
     lbl.setAlignment(Qt::AlignHCenter | Qt::AlignVCenter);
     lbl.setMinimumSize(100, 100);
 
-    // const QSize BUTTON_SIZE = QSize(22, 22);
-    // button->setMinimumSize(BUTTON_SIZE);
-    // cmd.setAlignment(Qt::AlignHCenter | Qt::AlignVCenter);
     cmd.setMinimumSize(150, 100);
     
     lbl.show();
