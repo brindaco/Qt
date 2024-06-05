@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias = "Windows.jpg">Windows.jpeg</file>
+        <file alias = "Linux.jpg">Linux.jpeg</file>
+        <file alias = "MacOSX.jpg">MacOSX.jpeg</file>
+        <file alias = "Android.jpg">Android.jpeg</file>
+    </qresource>
+</RCC>
